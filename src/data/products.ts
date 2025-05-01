@@ -52,9 +52,9 @@ export const products: Product[] = [
     discount: 0,
     rating: 4.7,
     reviews: 1890,
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://beautykoreadubai.com/cdn/shop/products/Laneige-Water-sleeping-mask-yonaamio_620x.jpg?v=1740776278",
     images: [
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "https://beautykoreadubai.com/cdn/shop/products/Laneige-Water-sleeping-mask-yonaamio_620x.jpg?v=1740776278",
       "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     ],
@@ -94,9 +94,9 @@ export const products: Product[] = [
     discount: 0,
     rating: 4.5,
     reviews: 865,
-    image: "https://images.unsplash.com/photo-1631730358267-3bb7e9f0dc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://m.media-amazon.com/images/I/61E8xkyaRnL._AC_UF1000,1000_QL80_.jpg",
     images: [
-      "https://images.unsplash.com/photo-1631730358267-3bb7e9f0dc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "https://m.media-amazon.com/images/I/61E8xkyaRnL._AC_UF1000,1000_QL80_.jpg",
       "https://images.unsplash.com/photo-1619451334792-150fd785ee74?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     ],
@@ -184,14 +184,14 @@ export const categories: Category[] = [
     id: 2,
     name: "Makeup",
     path: "/products/makeup",
-    image: "https://images.unsplash.com/photo-1631730358267-3bb7e9f0dc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://media.glamourmagazine.co.uk/photos/657b31e9c503af33f0786894/1:1/w_1280,h_1280,c_limit/KOREAN%20BEAUTY%20PRODUCTS%20141223%20KOREAN-PRODUCTS-mAIN.jpg",
     count: 28
   },
   {
     id: 3,
     name: "Masks",
     path: "/products/masks",
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://koreanskincare.nl/cdn/shop/products/petitfee-agave-cooling-hydrogel-face-mask-6.jpg?v=1631436559",
     count: 15
   },
   {
